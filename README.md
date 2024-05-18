@@ -1,5 +1,5 @@
 # -5015
-Hi there！
+Hello World
 - 👋 Hi, I’m @Plyy5015
 - 👀 I’m interested in Math
 - 🌱 I’m currently learning C
